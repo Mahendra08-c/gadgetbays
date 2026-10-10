@@ -1,0 +1,6 @@
+Flask
+flask-cors
+psycopg[binary]
+Flask
+flask-cors
+openpyxl
